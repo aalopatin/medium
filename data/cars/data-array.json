@@ -1,0 +1,882 @@
+[
+    {
+        "manufacturer": "Kia",
+        "model": "Silverado",
+        "color": [
+            "cyan",
+            "orange",
+            "grey",
+            "olive"
+        ]
+    },
+    {
+        "manufacturer": "Honda",
+        "model": "Prius",
+        "color": [
+            "purple",
+            "red"
+        ]
+    },
+    {
+        "manufacturer": "Chrysler",
+        "model": "Model S",
+        "color": [
+            "yellow",
+            "black",
+            "turquoise",
+            "black",
+            "fuchsia"
+        ]
+    },
+    {
+        "manufacturer": "Audi",
+        "model": "XTS",
+        "color": [
+            "red"
+        ]
+    },
+    {
+        "manufacturer": "Land Rover",
+        "model": "Alpine",
+        "color": [
+            "blue"
+        ]
+    },
+    {
+        "manufacturer": "Mini",
+        "model": "Element",
+        "color": [
+            "olive",
+            "pink",
+            "grey"
+        ]
+    },
+    {
+        "manufacturer": "Jaguar",
+        "model": "Altima",
+        "color": [
+            "blue",
+            "ivory"
+        ]
+    },
+    {
+        "manufacturer": "Jaguar",
+        "model": "Countach",
+        "color": [
+            "cyan",
+            "violet"
+        ]
+    },
+    {
+        "manufacturer": "Toyota",
+        "model": "Model S",
+        "color": [
+            "indigo",
+            "orchid",
+            "red"
+        ]
+    },
+    {
+        "manufacturer": "Maserati",
+        "model": "A8",
+        "color": [
+            "red",
+            "silver"
+        ]
+    },
+    {
+        "manufacturer": "Land Rover",
+        "model": "Model 3",
+        "color": [
+            "indigo"
+        ]
+    },
+    {
+        "manufacturer": "Cadillac",
+        "model": "CTS",
+        "color": [
+            "plum",
+            "magenta"
+        ]
+    },
+    {
+        "manufacturer": "Mini",
+        "model": "Silverado",
+        "color": [
+            "pink",
+            "tan",
+            "yellow"
+        ]
+    },
+    {
+        "manufacturer": "Chevrolet",
+        "model": "CX-9",
+        "color": [
+            "teal",
+            "fuchsia",
+            "orange",
+            "tan",
+            "orchid"
+        ]
+    },
+    {
+        "manufacturer": "Honda",
+        "model": "Challenger",
+        "color": [
+            "green",
+            "orchid"
+        ]
+    },
+    {
+        "manufacturer": "Jeep",
+        "model": "Ranchero",
+        "color": [
+            "white",
+            "yellow",
+            "plum"
+        ]
+    },
+    {
+        "manufacturer": "Mercedes Benz",
+        "model": "Civic",
+        "color": [
+            "lime",
+            "black",
+            "red"
+        ]
+    },
+    {
+        "manufacturer": "Ferrari",
+        "model": "Grand Caravan",
+        "color": [
+            "sky blue",
+            "silver",
+            "mint green",
+            "turquoise",
+            "turquoise"
+        ]
+    },
+    {
+        "manufacturer": "Toyota",
+        "model": "Colorado",
+        "color": [
+            "lavender",
+            "gold",
+            "cyan",
+            "azure",
+            "teal"
+        ]
+    },
+    {
+        "manufacturer": "Mazda",
+        "model": "Malibu",
+        "color": [
+            "plum",
+            "ivory",
+            "lavender",
+            "yellow"
+        ]
+    },
+    {
+        "manufacturer": "Chrysler",
+        "model": "El Camino",
+        "color": [
+            "ivory",
+            "sky blue",
+            "pink",
+            "cyan"
+        ]
+    },
+    {
+        "manufacturer": "Dodge",
+        "model": "Taurus",
+        "color": [
+            "gold"
+        ]
+    },
+    {
+        "manufacturer": "Hyundai",
+        "model": "Model S",
+        "color": [
+            "blue"
+        ]
+    },
+    {
+        "manufacturer": "Volvo",
+        "model": "Roadster",
+        "color": [
+            "mint green",
+            "plum",
+            "violet"
+        ]
+    },
+    {
+        "manufacturer": "Maserati",
+        "model": "CTS",
+        "color": [
+            "purple",
+            "silver",
+            "mint green",
+            "purple"
+        ]
+    },
+    {
+        "manufacturer": "Tesla",
+        "model": "LeBaron",
+        "color": [
+            "fuchsia",
+            "yellow",
+            "purple"
+        ]
+    },
+    {
+        "manufacturer": "Mini",
+        "model": "Alpine",
+        "color": [
+            "azure"
+        ]
+    },
+    {
+        "manufacturer": "Bugatti",
+        "model": "Camry",
+        "color": [
+            "indigo",
+            "mint green",
+            "azure",
+            "mint green",
+            "turquoise"
+        ]
+    },
+    {
+        "manufacturer": "Honda",
+        "model": "XC90",
+        "color": [
+            "black",
+            "blue"
+        ]
+    },
+    {
+        "manufacturer": "Chrysler",
+        "model": "Impala",
+        "color": [
+            "purple",
+            "lime"
+        ]
+    },
+    {
+        "manufacturer": "Mazda",
+        "model": "CX-9",
+        "color": [
+            "ivory",
+            "gold",
+            "grey",
+            "white"
+        ]
+    },
+    {
+        "manufacturer": "Audi",
+        "model": "PT Cruiser",
+        "color": [
+            "ivory"
+        ]
+    },
+    {
+        "manufacturer": "Rolls Royce",
+        "model": "Civic",
+        "color": [
+            "fuchsia",
+            "teal",
+            "indigo",
+            "lavender"
+        ]
+    },
+    {
+        "manufacturer": "BMW",
+        "model": "2",
+        "color": [
+            "lime",
+            "blue",
+            "orange",
+            "orange",
+            "black"
+        ]
+    },
+    {
+        "manufacturer": "Audi",
+        "model": "A4",
+        "color": [
+            "white",
+            "pink",
+            "orchid",
+            "mint green",
+            "green"
+        ]
+    },
+    {
+        "manufacturer": "Jaguar",
+        "model": "Model T",
+        "color": [
+            "black",
+            "turquoise",
+            "fuchsia",
+            "violet"
+        ]
+    },
+    {
+        "manufacturer": "Ford",
+        "model": "Model 3",
+        "color": [
+            "olive"
+        ]
+    },
+    {
+        "manufacturer": "BMW",
+        "model": "Taurus",
+        "color": [
+            "grey",
+            "orange",
+            "azure",
+            "gold"
+        ]
+    },
+    {
+        "manufacturer": "BMW",
+        "model": "LeBaron",
+        "color": [
+            "yellow"
+        ]
+    },
+    {
+        "manufacturer": "BMW",
+        "model": "ATS",
+        "color": [
+            "olive",
+            "orchid",
+            "cyan",
+            "fuchsia"
+        ]
+    },
+    {
+        "manufacturer": "Volkswagen",
+        "model": "ATS",
+        "color": [
+            "salmon",
+            "magenta",
+            "yellow",
+            "violet"
+        ]
+    },
+    {
+        "manufacturer": "Nissan",
+        "model": "Prius",
+        "color": [
+            "grey"
+        ]
+    },
+    {
+        "manufacturer": "Mazda",
+        "model": "Expedition",
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "manufacturer": "Rolls Royce",
+        "model": "Wrangler",
+        "color": [
+            "ivory",
+            "purple",
+            "magenta",
+            "green",
+            "magenta"
+        ]
+    },
+    {
+        "manufacturer": "Kia",
+        "model": "Model 3",
+        "color": [
+            "azure",
+            "plum"
+        ]
+    },
+    {
+        "manufacturer": "Chrysler",
+        "model": "A8",
+        "color": [
+            "ivory",
+            "red"
+        ]
+    },
+    {
+        "manufacturer": "Dodge",
+        "model": "Wrangler",
+        "color": [
+            "red",
+            "lavender",
+            "tan",
+            "gold",
+            "maroon"
+        ]
+    },
+    {
+        "manufacturer": "Nissan",
+        "model": "Beetle",
+        "color": [
+            "blue",
+            "white",
+            "grey",
+            "lavender"
+        ]
+    },
+    {
+        "manufacturer": "Volvo",
+        "model": "Model 3",
+        "color": [
+            "orange",
+            "grey"
+        ]
+    },
+    {
+        "manufacturer": "Porsche",
+        "model": "Model 3",
+        "color": [
+            "orchid",
+            "cyan",
+            "black",
+            "violet",
+            "pink"
+        ]
+    },
+    {
+        "manufacturer": "Volvo",
+        "model": "Camry",
+        "color": [
+            "sky blue",
+            "white",
+            "teal"
+        ]
+    },
+    {
+        "manufacturer": "Tesla",
+        "model": "Element",
+        "color": [
+            "silver"
+        ]
+    },
+    {
+        "manufacturer": "Bugatti",
+        "model": "Malibu",
+        "color": [
+            "purple",
+            "plum"
+        ]
+    },
+    {
+        "manufacturer": "Kia",
+        "model": "Accord",
+        "color": [
+            "lavender",
+            "yellow",
+            "lime",
+            "orange"
+        ]
+    },
+    {
+        "manufacturer": "Honda",
+        "model": "XC90",
+        "color": [
+            "orange"
+        ]
+    },
+    {
+        "manufacturer": "Rolls Royce",
+        "model": "El Camino",
+        "color": [
+            "sky blue",
+            "azure",
+            "magenta"
+        ]
+    },
+    {
+        "manufacturer": "Maserati",
+        "model": "Corvette",
+        "color": [
+            "pink",
+            "lime",
+            "turquoise"
+        ]
+    },
+    {
+        "manufacturer": "Mazda",
+        "model": "911",
+        "color": [
+            "salmon",
+            "violet",
+            "black"
+        ]
+    },
+    {
+        "manufacturer": "Maserati",
+        "model": "Prius",
+        "color": [
+            "lavender",
+            "cyan",
+            "grey"
+        ]
+    },
+    {
+        "manufacturer": "Mazda",
+        "model": "Grand Caravan",
+        "color": [
+            "tan"
+        ]
+    },
+    {
+        "manufacturer": "Kia",
+        "model": "Altima",
+        "color": [
+            "ivory",
+            "red",
+            "azure",
+            "pink"
+        ]
+    },
+    {
+        "manufacturer": "Polestar",
+        "model": "V90",
+        "color": [
+            "ivory",
+            "gold",
+            "magenta",
+            "fuchsia",
+            "magenta"
+        ]
+    },
+    {
+        "manufacturer": "Jaguar",
+        "model": "Taurus",
+        "color": [
+            "mint green",
+            "plum"
+        ]
+    },
+    {
+        "manufacturer": "Kia",
+        "model": "Colorado",
+        "color": [
+            "turquoise"
+        ]
+    },
+    {
+        "manufacturer": "Tesla",
+        "model": "Escalade",
+        "color": [
+            "turquoise",
+            "purple"
+        ]
+    },
+    {
+        "manufacturer": "Land Rover",
+        "model": "Malibu",
+        "color": [
+            "sky blue",
+            "magenta"
+        ]
+    },
+    {
+        "manufacturer": "Volvo",
+        "model": "Prius",
+        "color": [
+            "teal"
+        ]
+    },
+    {
+        "manufacturer": "Toyota",
+        "model": "Explorer",
+        "color": [
+            "black",
+            "orange"
+        ]
+    },
+    {
+        "manufacturer": "Ferrari",
+        "model": "PT Cruiser",
+        "color": [
+            "orange",
+            "mint green",
+            "salmon",
+            "white",
+            "grey"
+        ]
+    },
+    {
+        "manufacturer": "Audi",
+        "model": "LeBaron",
+        "color": [
+            "teal"
+        ]
+    },
+    {
+        "manufacturer": "Cadillac",
+        "model": "El Camino",
+        "color": [
+            "plum",
+            "plum",
+            "turquoise",
+            "maroon",
+            "sky blue"
+        ]
+    },
+    {
+        "manufacturer": "Porsche",
+        "model": "Camaro",
+        "color": [
+            "orchid",
+            "indigo",
+            "turquoise",
+            "cyan",
+            "plum"
+        ]
+    },
+    {
+        "manufacturer": "Bentley",
+        "model": "Malibu",
+        "color": [
+            "mint green",
+            "olive",
+            "olive",
+            "sky blue"
+        ]
+    },
+    {
+        "manufacturer": "Jaguar",
+        "model": "Camaro",
+        "color": [
+            "indigo",
+            "white"
+        ]
+    },
+    {
+        "manufacturer": "Volvo",
+        "model": "1",
+        "color": [
+            "silver",
+            "mint green",
+            "maroon",
+            "turquoise",
+            "green"
+        ]
+    },
+    {
+        "manufacturer": "Mazda",
+        "model": "Ranchero",
+        "color": [
+            "plum",
+            "ivory"
+        ]
+    },
+    {
+        "manufacturer": "Mini",
+        "model": "2",
+        "color": [
+            "ivory",
+            "turquoise",
+            "fuchsia"
+        ]
+    },
+    {
+        "manufacturer": "Ferrari",
+        "model": "Countach",
+        "color": [
+            "yellow"
+        ]
+    },
+    {
+        "manufacturer": "Smart",
+        "model": "Challenger",
+        "color": [
+            "salmon",
+            "lime",
+            "orange"
+        ]
+    },
+    {
+        "manufacturer": "Volkswagen",
+        "model": "Model T",
+        "color": [
+            "red"
+        ]
+    },
+    {
+        "manufacturer": "Jaguar",
+        "model": "PT Cruiser",
+        "color": [
+            "green",
+            "blue",
+            "fuchsia",
+            "violet",
+            "gold"
+        ]
+    },
+    {
+        "manufacturer": "Fiat",
+        "model": "Mustang",
+        "color": [
+            "orchid",
+            "mint green",
+            "lavender",
+            "gold"
+        ]
+    },
+    {
+        "manufacturer": "Honda",
+        "model": "Mustang",
+        "color": [
+            "blue",
+            "silver",
+            "violet"
+        ]
+    },
+    {
+        "manufacturer": "Jaguar",
+        "model": "Cruze",
+        "color": [
+            "lavender",
+            "olive",
+            "teal"
+        ]
+    },
+    {
+        "manufacturer": "Toyota",
+        "model": "Grand Caravan",
+        "color": [
+            "magenta",
+            "ivory",
+            "plum",
+            "red"
+        ]
+    },
+    {
+        "manufacturer": "Porsche",
+        "model": "Roadster",
+        "color": [
+            "purple",
+            "lime"
+        ]
+    },
+    {
+        "manufacturer": "Volvo",
+        "model": "Accord",
+        "color": [
+            "pink",
+            "gold"
+        ]
+    },
+    {
+        "manufacturer": "Mazda",
+        "model": "Beetle",
+        "color": [
+            "orange"
+        ]
+    },
+    {
+        "manufacturer": "Audi",
+        "model": "ATS",
+        "color": [
+            "cyan",
+            "gold"
+        ]
+    },
+    {
+        "manufacturer": "Polestar",
+        "model": "Mercielago",
+        "color": [
+            "orange",
+            "mint green",
+            "cyan",
+            "magenta"
+        ]
+    },
+    {
+        "manufacturer": "Dodge",
+        "model": "Mustang",
+        "color": [
+            "fuchsia",
+            "grey",
+            "lavender",
+            "ivory"
+        ]
+    },
+    {
+        "manufacturer": "Lamborghini",
+        "model": "Model 3",
+        "color": [
+            "indigo"
+        ]
+    },
+    {
+        "manufacturer": "Polestar",
+        "model": "Mustang",
+        "color": [
+            "indigo",
+            "lime",
+            "tan"
+        ]
+    },
+    {
+        "manufacturer": "Audi",
+        "model": "Fiesta",
+        "color": [
+            "mint green"
+        ]
+    },
+    {
+        "manufacturer": "Nissan",
+        "model": "Aventador",
+        "color": [
+            "olive"
+        ]
+    },
+    {
+        "manufacturer": "Chrysler",
+        "model": "V90",
+        "color": [
+            "tan"
+        ]
+    },
+    {
+        "manufacturer": "Chevrolet",
+        "model": "Fiesta",
+        "color": [
+            "pink",
+            "olive"
+        ]
+    },
+    {
+        "manufacturer": "Jeep",
+        "model": "Volt",
+        "color": [
+            "maroon",
+            "sky blue",
+            "red"
+        ]
+    },
+    {
+        "manufacturer": "Lamborghini",
+        "model": "Land Cruiser",
+        "color": [
+            "turquoise",
+            "turquoise",
+            "salmon",
+            "teal"
+        ]
+    },
+    {
+        "manufacturer": "Land Rover",
+        "model": "Malibu",
+        "color": [
+            "lime"
+        ]
+    }
+]
