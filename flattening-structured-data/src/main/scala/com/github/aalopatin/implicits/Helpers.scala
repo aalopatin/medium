@@ -1,8 +1,8 @@
 package com.github.aalopatin.implicits
 
-import org.apache.spark.sql.{Column, DataFrame}
 import org.apache.spark.sql.functions.{col, explode}
-import org.apache.spark.sql.types.{ArrayType, StructField, StructType}
+import org.apache.spark.sql.types.StructField
+import org.apache.spark.sql.{Column, DataFrame}
 
 import scala.annotation.tailrec
 
