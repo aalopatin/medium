@@ -11,7 +11,7 @@ object TailrecDynamicSourcesMain extends App {
   implicit val spark = SparkSession
     .builder()
     .appName("tailrec-dynamic-sources")
-    .config("spark.master", "local[*]")
+    .config("spark.master", "local[1]")
     .getOrCreate()
 
   import spark.implicits._
